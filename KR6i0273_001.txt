@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:43.274140
+#+DATE: 2015-08-30 20:14:44.957194
 #+TITLE: 無極寶三昧經
 #+PROPERTY: CBETA_ID T15n0636
 #+PROPERTY: ID KR6i0273
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 636
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0273_T_001-0507b> 
 #+PROPERTY: JUAN 1
 ¶
-No.636[No.637]¶
-
- 《無極寶三昧經》卷上¶
+No. 636 [No. 637]¶
+《無極寶三昧經》卷上¶
 ¶
 西晉月氏三藏竺法護譯¶
 
@@ -702,7 +701,7 @@ No.636[No.637]¶
 九法：一者遠離眾會常志寂靜；二者得善知¶
 識從受法不失；三者遠惡智識不與從事；四¶
 者常遠離五事，一者惡沙門、二者惡婆羅¶
-門、三者惡黃門、四者惡牛惡馬、五者蛇𧈭¶
+門、三者惡黃門、四者惡牛惡馬、五者蛇[虫*兀]¶
 毒蟲，此五者不當與從事，未得道頃令人¶
 入泥犁，以故當遠之；五者初發意求羅漢辟¶
 支佛心者當遠之，當覺諸魔事，不當與共事¶
