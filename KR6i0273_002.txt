@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:43.309925
+#+DATE: 2015-08-30 20:14:44.761703
 #+TITLE: 無極寶三昧經
 #+PROPERTY: CBETA_ID T15n0636
 #+PROPERTY: ID KR6i0273
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 636
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0273_T_002-0513a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《無極寶三昧經》卷下¶
+《無極寶三昧經》卷下¶
 ¶
 西晉月氏三藏竺法護譯¶
 
